@@ -6,5 +6,3 @@ const usuario = {
     idade,
     cidade: 'Rio do Sul',
 };
-
-console.log(usuario);
